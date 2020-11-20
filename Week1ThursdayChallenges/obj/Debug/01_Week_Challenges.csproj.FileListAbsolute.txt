@@ -1,0 +1,14 @@
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Week1ThursdayChallenges.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Week1ThursdayChallenges.pdb
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\obj\Debug\01_Week_Challenges.csprojAssemblyReference.cache
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\obj\Debug\01_Week_Challenges.csproj.CoreCompileInputs.cache
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\obj\Debug\01_Week_Challenges.csproj.CopyComplete
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\obj\Debug\Week1ThursdayChallenges.dll
+E:\Repos\01_Week_Challenges\Week1ThursdayChallenges\obj\Debug\Week1ThursdayChallenges.pdb
