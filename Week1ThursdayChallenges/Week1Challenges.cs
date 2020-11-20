@@ -128,7 +128,7 @@ namespace Week1ThursdayChallenges
             listOfDateTime.Add(herBirthDay);
             listOfDateTime.Add(daughtBirthDay);
             listOfDateTime.Add(now);
-            listOfDateTime.Add(new DateTime(2020/12/25));
+            listOfDateTime.Add(new DateTime(2020,12,25));
 
             foreach (DateTime i in listOfDateTime)
             {
